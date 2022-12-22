@@ -7,4 +7,8 @@ public class Sales {
     // 50% off
     // free
 
+    // Almayani dovuyolar
+
+    // haber et konu komsuya
+
 }
