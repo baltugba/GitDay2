@@ -11,4 +11,8 @@ public class Sales {
 
     // haber et konu komsuya
 
+    //added hoiday sales 75% off
+
+    // deals
+
 }
